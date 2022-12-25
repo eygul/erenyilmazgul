@@ -45,20 +45,20 @@ body{
     position: absolute;
     right: 470px;
     top:150px;
-    max-width:100%
+    max-width:100%;
 
 }
 .bottom{
 position: absolute;
 top: 340px;
-max-width:100%
+max-width:100%;
 }
 
 .mount{
     position: relative;
     top: 313px;
     padding-bottom: 0px;
-    max-width:100%
+    max-width:100%;
 }
 
 .aboutme{
@@ -132,14 +132,16 @@ a:visited {
     position: relative;
     top: 150px;
     left: 500px;
-    max-width:100%
+    max-width:100%;
+
 }
 
 .instapp{
     position: relative;
     top: 150px;
     left: 500px;
-    max-width:100%
+    max-width:100%;
+
 }
 #projects{
     background-color: #205295;
