@@ -1,0 +1,168 @@
+.firstfirst {
+    background-color: #0A2647;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin: 0 0 0 0;
+    height: 770px;
+    padding-bottom: 0px;
+}
+
+h1 {
+    color: #FAF7F0;
+    position: relative;
+    top: 250px;
+    margin-top: 0px;
+    font-family: tahoma, sans-serif;
+    font-size: 35px;
+
+}
+h2 {
+    color: #FAF7F0;
+    position: relative;
+    top: 0px;
+    margin-top: 0px;
+    font-family: tahoma, sans-serif;
+    font-size: 25px;
+
+}
+p{
+    position: relative;
+    top:250px;
+    font-family: verdana, sans-serif;
+    color:#CDFCF6;
+}
+.b{
+    margin-top: 0px;
+}
+body{
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.top{
+    position: absolute;
+    right: 470px;
+    top:150px;
+    max-width:100%
+
+}
+.bottom{
+position: absolute;
+top: 340px;
+max-width:100%
+}
+
+.mount{
+    position: relative;
+    top: 313px;
+    padding-bottom: 0px;
+    max-width:100%
+}
+
+.aboutme{
+    position: fixed;
+    right: 275px;
+    top:0px;
+    font-family: verdana, sans-serif;
+    color: #FAF7F0;
+}
+.myprojects{
+    position: fixed;
+    right: 145px;
+    top:0px;
+    font-family: verdana, sans-serif;
+    color: #FAF7F0;
+    
+}
+.myhobbies{
+    position: fixed;
+    right: 15px;
+    top:0px;
+    font-family: verdana, sans-serif;
+    color: #FAF7F0;
+    
+}
+a{
+    color: #FAF7F0;
+    text-decoration: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin: 0 0 0 0;
+    height: 770px;
+    padding-bottom: 0px;
+}
+a:visited {
+    color: #FAF7F0;
+    text-decoration: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin: 0 0 0 0;
+    height: 770px;
+    padding-bottom: 0px;
+  }
+
+#profile{
+    background-color: #144272;
+    height: 770px;
+    font-family: tahoma, sans-serif;
+    color:#FAF7F0;
+}
+#aboutp{
+    color: #FAF7F0;
+    font-family: verdana, sans-serif;
+    position: relative;
+    top: -100px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+#aboutpr{
+    color: #FAF7F0;
+    font-family: verdana, sans-serif;
+    position: relative;
+    top: -65px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.eren{
+    position: relative;
+    top: 150px;
+    left: 500px;
+    max-width:100%
+}
+
+.instapp{
+    position: relative;
+    top: 150px;
+    left: 500px;
+    max-width:100%
+}
+#projects{
+    background-color: #205295;
+    height: 770px;
+    font-family: tahoma, sans-serif;
+    color:#FAF7F0;
+}
+
+.projectheadline{
+    position: absolute;
+    top: 1715px;
+    text-align: left;
+    margin-left: 20px;
+}
+#abouteren{
+    position: absolute;
+    top: 980px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+#contactme{
+    height: 80px;
+    background-color: #3C2A21;
+    padding: 15px;
+}
